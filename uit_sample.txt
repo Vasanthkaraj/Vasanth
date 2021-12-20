@@ -1,1 +1,2 @@
 Git add
+Git commit -a -m
